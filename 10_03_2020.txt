@@ -1,0 +1,1 @@
+00.00/temp = 21/humidity = 65%/wind speed = 11km.h/sun = 58%/chance of rain = 1%
